@@ -1,0 +1,11 @@
+E:\soft\KellListBoxSelecter\Test\bin\Debug\Test.exe.config
+E:\soft\KellListBoxSelecter\Test\obj\x86\Debug\Test.Form1.resources
+E:\soft\KellListBoxSelecter\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\soft\KellListBoxSelecter\Test\bin\Debug\Test.exe
+E:\soft\KellListBoxSelecter\Test\bin\Debug\Test.pdb
+E:\soft\KellListBoxSelecter\Test\bin\Debug\KellListBoxSelecter.dll
+E:\soft\KellListBoxSelecter\Test\bin\Debug\KellListBoxSelecter.pdb
+E:\soft\KellListBoxSelecter\Test\obj\x86\Debug\Test.exe
+E:\soft\KellListBoxSelecter\Test\obj\x86\Debug\Test.pdb
+E:\soft\KellListBoxSelecter\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+E:\soft\KellListBoxSelecter\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache

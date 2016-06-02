@@ -1,0 +1,7 @@
+bin\Debug\KellListBoxSelecter.dll
+bin\Debug\KellListBoxSelecter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\KellListBoxSelecter.ListBoxSelecter.resources
+obj\Debug\KellListBoxSelecter.csproj.GenerateResource.Cache
+obj\Debug\KellListBoxSelecter.dll
+obj\Debug\KellListBoxSelecter.pdb

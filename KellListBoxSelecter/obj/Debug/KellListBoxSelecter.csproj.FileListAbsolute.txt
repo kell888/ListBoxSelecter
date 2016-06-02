@@ -1,0 +1,14 @@
+F:\职业生涯\非常有用的东东\KellListBoxSelecter\KellListBoxSelecter\bin\Debug\KellListBoxSelecter.dll
+F:\职业生涯\非常有用的东东\KellListBoxSelecter\KellListBoxSelecter\bin\Debug\KellListBoxSelecter.pdb
+F:\职业生涯\非常有用的东东\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\ResolveAssemblyReference.cache
+F:\职业生涯\非常有用的东东\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\KellListBoxSelecter.ListBoxSelecter.resources
+F:\职业生涯\非常有用的东东\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\职业生涯\非常有用的东东\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\职业生涯\非常有用的东东\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\KellListBoxSelecter.dll
+F:\职业生涯\非常有用的东东\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\KellListBoxSelecter.pdb
+E:\soft\KellListBoxSelecter\KellListBoxSelecter\bin\Debug\KellListBoxSelecter.dll
+E:\soft\KellListBoxSelecter\KellListBoxSelecter\bin\Debug\KellListBoxSelecter.pdb
+E:\soft\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\KellListBoxSelecter.ListBoxSelecter.resources
+E:\soft\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\KellListBoxSelecter.dll
+E:\soft\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\KellListBoxSelecter.pdb
+E:\soft\KellListBoxSelecter\KellListBoxSelecter\obj\Debug\KellListBoxSelecter.csproj.GenerateResource.Cache
